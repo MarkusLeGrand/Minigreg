@@ -1,0 +1,15 @@
+# Objets et binaires compilés
+*.o
+*.a
+a.out
+*.dSYM/
+build/
+obj/
+
+# Éditeur / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Exécutables
+minishell
